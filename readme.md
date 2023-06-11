@@ -1,4 +1,4 @@
-# Head First - Design Pattern
+# Head First - Design Patterns
 
 I'm diving into design pattern.
 This project is my take on trying to do the activities and exercises proposed in the famous book.
